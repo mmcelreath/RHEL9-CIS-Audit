@@ -67,7 +67,7 @@ change_requires_reboot: false
 setup_audit: false
 
 # enable audits to run - this runs the audit and get the latest content
-run_audit: false
+run_audit: true
 # Run heavy tests - some tests can have more impact on a system enabling these can have greater impact on a system
 audit_run_heavy_tests: true
 
